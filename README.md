@@ -1,4 +1,7 @@
 # WOLFENSTEIN-RAYCASTING-ENGINE
+
+![Alt Text](https://github.com/RectangularArch/Image-storage/blob/master/Cub3D/ezgif.com-gif-maker.gif)
+
 ## Introduction
 Raycasting engine inspired by engine used in the "Wolfenstein 3D" game. It can therefore only run in MacOSX. The project runs using the MiniLibX, a simplified version of the Xlib.
 
